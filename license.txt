@@ -1,0 +1,184 @@
+Samko Public License (SPL) v1.2
+Copyright (c) 2026 Samko (@samko5542)
+
+This license grants broad rights to use, modify, and redistribute this Software
+while ensuring proper attribution to the original author and preventing
+unauthorized monetization of the Software itself.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DEFINITIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+"The Software" means the source code, compiled binaries, and associated
+documentation files covered by this license.
+
+"Derivative Work" means any work that copies, incorporates, modifies, or is
+substantially based on the Software or any portion of it, as determined by
+applicable copyright law. Wrappers, plugins, or extensions that interact with
+the Software solely through its public API without reproducing any of its source
+code are not Derivative Works, but are still subject to the attribution
+requirements in Section 3 when distributed alongside the Software.
+
+"Distribute" means to make available to another party by any means, including
+but not limited to: providing source code, compiled binaries, downloads, network
+access, SaaS delivery, or inclusion in another software package.
+
+"Written Permission" means a documented authorization from the copyright holder
+delivered via email, SMS, physical (paper) mail, or signed document.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. USE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The Software may be used for personal, educational, or commercial purposes,
+provided that no fee is charged for access to or distribution of the Software
+itself or any Derivative Work.
+
+Charging for separate proprietary services, support, or independent components
+that work alongside the Software is permitted, provided the Software itself
+remains freely accessible under the terms of this license and is not the primary
+product being sold.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. MODIFICATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+You may modify, improve, adapt, or build upon the Software.
+
+Any Derivative Work must comply with this license and preserve all attribution
+requirements in Section 3.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. REDISTRIBUTION AND ATTRIBUTION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+You may redistribute the original Software or any Derivative Work.
+
+Any redistribution must include this license file in full.
+
+Any redistribution must clearly credit the original author. Attribution must
+include either a link to the original repository or the author credit
+"@samko5542".
+
+Attribution must appear in at least one of the following locations, whichever
+is applicable to the form of distribution:
+
+  - The top-level README or equivalent primary documentation file
+  - An "About", "Credits", or "Acknowledgements" page or section accessible
+    to end users
+  - The application's splash screen, about dialog, or equivalent UI element
+  - The package or distribution metadata (e.g. package.json, pyproject.toml,
+    or equivalent)
+
+For network-delivered services (SaaS, web applications, hosted APIs),
+attribution must appear in publicly accessible documentation or the service's
+about/credits page.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. NO SELLING OR RELICENSING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+You may not sell, sublicense, rent, lease, or otherwise charge a fee for access
+to or distribution of the Software itself, whether modified or unmodified, either
+standalone or as the primary component of another product, without prior Written
+Permission from the copyright holder.
+
+You may not redistribute the Software or any Derivative Work under a different
+license.
+
+Any redistribution of the Software or any Derivative Work must remain licensed
+under the Samko Public License (SPL).
+
+You may not remove this license or claim copyright ownership of the original
+work.
+
+You may not present the original Software or any Derivative Work as your own
+creation without proper attribution.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. NETWORK USE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Providing access to the Software or any Derivative Work over a network —
+including but not limited to web applications, hosted APIs, and SaaS products —
+constitutes distribution for the purposes of this license.
+
+All conditions of this license, including attribution and license preservation,
+apply to network-delivered use.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. PATENT GRANT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Each contributor hereby grants a worldwide, royalty-free,
+non-exclusive patent license to make, use, and redistribute the Software,
+where such license applies only to patent claims licensable by that contributor
+that are necessarily infringed by their contribution alone or by its combination
+with the Software.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. NO WARRANTY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED.
+
+THE AUTHOR MAKES NO GUARANTEES REGARDING THE FUNCTIONALITY, SAFETY,
+RELIABILITY, MERCHANTABILITY, OR FITNESS OF THE SOFTWARE FOR ANY PARTICULAR
+PURPOSE.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. LIMITATION OF LIABILITY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+YOU USE THIS SOFTWARE ENTIRELY AT YOUR OWN RISK.
+
+IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM,
+DAMAGES, DATA LOSS, SYSTEM FAILURE, HARDWARE DAMAGE, CORRUPTED FILES, OR ANY
+OTHER LIABILITY ARISING FROM THE USE OF OR INABILITY TO USE THE SOFTWARE.
+
+IF YOU BREAK SOMETHING USING THIS SOFTWARE, THAT IS YOUR RESPONSIBILITY,
+NOT THE AUTHOR'S.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. LICENSE PRESERVATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Any redistribution containing all or part of the Software must preserve this
+license and all copyright and attribution notices.
+
+Additional code or independent components may be licensed separately only if
+they do not alter, replace, or remove the licensing terms applied to the
+original Software.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+10. TERMINATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Any person or organization that violates the terms of this license automatically
+and immediately loses all rights granted under it, with no grace period.
+
+Rights may only be restored by Written Permission from the copyright holder
+explicitly stating that use may resume. Acceptable forms of Written Permission
+are: email, SMS, physical (paper) mail, or signed document. No other form of
+communication constitutes restoration of rights.
+
+Correcting a violation does not automatically restore rights. Restoration
+requires explicit Written Permission regardless of whether the violation has
+been cured.
+
+Sections 7, 8, and 10 survive termination of this license.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+11. GOVERNING LAW
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+This license shall be governed by and construed in accordance with the laws of
+The Slovak Republic,
+without regard to conflict of law principles. Any disputes arising under this
+license shall be subject to the jurisdiction of the courts of that territory.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+By using, copying, modifying, or distributing this Software, you acknowledge
+and agree to the terms of this license.
